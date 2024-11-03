@@ -1,0 +1,44 @@
+body { 
+    ;front-family: Arial, sans-serif
+    ;line-height:1.6
+    ;margin: 0
+    ;padding: 0}
+    
+     header{
+    ;background: #007BFF
+    ;color: white
+    ;padding: 20px
+    ;text-align: center
+    }
+    main{
+    ;padding: 20px
+    }
+    footer{
+    ;text-align: center
+    ;padding: 10px
+    ;background: #f4f4f4
+    ;position: relative
+    ;bottom: 0
+    ;width: 100%
+    }
+    h1 { text-align: center;}
+    body{ ;height: 400vh}
+    #video1{ ;mergin:20px }
+    h2 { text-align: center;}
+    #video2{ ;position: absolute
+    ;top: auto px
+    ;left:20px}
+    #video3{ ;position: absolute
+    ;top: auto px
+    ;left:400px}
+    
+    footer {
+        <background-color: #333
+        ;color: white 
+        ;text-align: center
+        ;padding: 20px 0
+        ;position: realive
+        ;botton: 0
+        ;width: 100%
+    }
+     
